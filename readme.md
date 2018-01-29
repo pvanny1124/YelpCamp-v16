@@ -1,13 +1,7 @@
 
-v15 YelpCamp: https://frozen-woodland-23205.herokuapp.com/
+v16 YelpCamp: https://frozen-woodland-23205.herokuapp.com/
 
 new features: 
 
--added MomentJS to show time from when a user posted a campground or a comment
--added admin roles
--added admin code field to sign up form
--added isAdmin parameter to UserSchema to check admin role
--added ability for an admin to edit/delete any campground or comment
-
-test secret admin code: "secretcode123"
-
+1) added a user profile that includes all the campgrounds that a user has posted.
+2) updated schema to include email, first and last name, and an avatar image url
